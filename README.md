@@ -60,3 +60,7 @@ App where you can exchnage photos with a stranger. You can keep this photo dialo
 
 Website crawler that uses a headless browser and finds errors and broken links on your website and reports it to you.
 
+### [readhacker.news](https://readhacker.news/) email subscription
+
+Allow [hackernewsbot](https://github.com/phil-r/hackernewsbot) to handle email subscriptions. 
+
