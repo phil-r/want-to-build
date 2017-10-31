@@ -1,7 +1,7 @@
 # want-to-build
 > :scroll: List of projects that I want to build
 
-This is a common problem that I come up with some cool ideas, but don't have time to build them. But when I finally have some time or my friend/colleague asks for some idea she can build I can't think of any of the top of my head 😭
+This is a common problem that I come up with some cool ideas, but don't have time to build them. But when I finally have some time or my friend/colleague asks for some ideas she can build I can't think of any of the top of my head 😭
 
 To solve this I'll keep the list of my ideas and small descriptions of them here.
 
@@ -49,11 +49,11 @@ This are the projects that I've started but haven't finished
 
 ### To remember
 
-Evereday photo diary. Works for just one(but very important) person right now.
+Everyday photo diary. Works for just one(but very important) person right now.
 
 ### Sneak peek
 
-App where you can exchnage photos with a stranger. You can keep a this photo dialogue until somebody stops to reply. 
+App where you can exchnage photos with a stranger. You can keep this photo dialogue until somebody stops to reply. 
 
 ### [Macaque](https://github.com/phil-r/macaque)
 > also known as `lodhommey`
