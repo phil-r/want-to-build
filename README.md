@@ -42,3 +42,16 @@ render() {
 
 ```
 
+
+## Started
+
+This are the projects that I've started but haven't finished
+
+### To remember
+
+Evereday photo diary. Works for just one(but very important) person right now.
+
+### Sneak peek
+
+App where you can exchnage photos with a stranger. You can keep a this photo dialogue until somebody stops to reply. 
+
