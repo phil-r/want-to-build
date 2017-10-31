@@ -55,3 +55,8 @@ Evereday photo diary. Works for just one(but very important) person right now.
 
 App where you can exchnage photos with a stranger. You can keep a this photo dialogue until somebody stops to reply. 
 
+### [Macaque](https://github.com/phil-r/macaque)
+> also known as `lodhommey`
+
+Website crawler that uses a headless browser and finds errors and broken links on your website and reports it to you.
+
