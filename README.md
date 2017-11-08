@@ -54,6 +54,12 @@ Social network/notebook for things that you don't want to do again(your fuckups 
 
 This is basically the opposite of life hacking. Stories can be saved privately, shared with your friends, or with everyone.
 
+### rater
+
+Create lists of things(food, places, artists, whatever) and tell what your rating scale is. Is it from 1 to 5 from 0 to 10? Maybe `x` to `y`? Is it ⭐️, 👍, `%` or ❤️ or maybe 💩?
+
+List can be private or public, so you can share it with the world.
+
 
 ## Started
 
