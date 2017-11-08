@@ -48,6 +48,12 @@ Public database of Corporations misdeeds (and virtues).
 
 A lot of big companies were caught doing some shady business([panama papers](http://panamapapers.sueddeutsche.de/en/), [paradise papers](https://www.icij.org/investigations/paradise-papers/), etc.) but it's quite hard to track what companies were actually involved and how bad it was. This database will aggregate all news articles about big companies(and maybe famous people) and provide overall `KARMA` score.
 
+### Never Again
+
+Social network/notebook for things that you don't want to do again(your fuckups or unpleasant experiences).
+
+This is basically the opposite of life hacking. Stories can be saved privately, shared with your friends, or with everyone.
+
 
 ## Started
 
