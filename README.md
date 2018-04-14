@@ -60,6 +60,28 @@ Create lists of things(food, places, artists, whatever) and tell what your ratin
 
 List can be private or public, so you can share it with the world.
 
+### Decentralized chat
+
+> Inspired by [Gossip protocol](https://en.wikipedia.org/wiki/Gossip_protocol) and [Scuttlebutt](https://github.com/ssbc)
+
+Chat where each client is also a server.
+
+ - No centralized servers
+ - First device you start using it with is a "master" by default
+ - New devices ask master for permissions to access logs/history and to act on your behalf
+ - Master can promote other devices to master level(so ideally you should have at least 2 masters in case of device loss, etc.)
+ - Every message is encrypted
+ - Offline delivery (in case recipient is offline) can be done through friends of friends or exchange hubs
+ - 2 types of non-human servers (can be combined):
+   - Exchange hubs: to simplify offline message delivery
+   - Discovery hubs: to simplify user search
+
+### Temporary file-sharing service
+
+> Inspired by [Firefox Send](https://github.com/mozilla/send)
+
+Simple service to share files for the give amount of time or downloads, possibly using [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html) as a file hosting
+
 
 ## Started
 
