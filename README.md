@@ -9,14 +9,6 @@ To solve this I'll keep the list of my ideas and small descriptions of them here
 
 This are the projects I haven't started working on
 
-### EZlytics
-
-Self-hosted analytics with server-side and simle client code and nice admin ui.
-
- - should allow to track pageviews and custom events (like `ga('send', 'pageview', location.pathname);`)
- - combine events into sessions
- - have a nice viewer for sessions
-
 ### YZtesting
 
 Self-hosted AB-testing tool, that cares about your conversion. Most of the A/B testing tools(Optimizely, VWO) are really bloated and hard to use. But from developers point of view you just need to know a test you're running and what variation to show. Also without proper setup they can kill your conversions by leading to a losing variation.
@@ -103,3 +95,11 @@ Website crawler that uses a headless browser and finds errors and broken links o
 ### [readhacker.news](https://readhacker.news/) email subscription
 
 Allow [hackernewsbot](https://github.com/phil-r/hackernewsbot) to handle email subscriptions.
+
+### [EZlytics](https://github.com/phil-r/ezlytics)
+
+Self-hosted analytics with server-side and simle client code and nice admin ui.
+
+ - should allow to track pageviews and custom events (like `ga('send', 'pageview', location.pathname);`)
+ - combine events into sessions
+ - have a nice viewer for sessions
