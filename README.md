@@ -74,6 +74,9 @@ Chat where each client is also a server.
 
 Simple service to share files for the give amount of time or downloads, possibly using [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html) as a file hosting
 
+### Emoji facemash
+Facemash for emojis, to find emoji number 1! Also comparing same emoji between different providers (google/apple) etc...
+
 
 ## Started
 
