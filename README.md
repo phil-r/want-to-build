@@ -77,6 +77,12 @@ Simple service to share files for the give amount of time or downloads, possibly
 ### Emoji facemash
 Facemash for emojis, to find emoji number 1! Also comparing same emoji between different providers (google/apple) etc...
 
+### News timeline aggregator
+Service to link news(events) that happened at different times, but share same situation, actors, companies, etc.
+This can be helpful to follow up on events(e.g. you know about Equifax fiasco, but don't know how the way situation developed, how it started and what were the latest news)
+
+Similar to [timeline](https://itunes.apple.com/us/app/timeline-news-in-context/id948867534)
+
 
 ## Started
 
