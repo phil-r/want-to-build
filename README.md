@@ -11,7 +11,7 @@ These are the projects I haven't started working on
 
 ### YZtesting
 
-Self-hosted AB-testing tool, that cares about your conversion. Most of the A/B testing tools(Optimizely, VWO) are really bloated and hard to use. But from developers point of view you just need to know a test you're running and what variation to show. Also without proper setup they can kill your conversions by leading to a losing variation.
+Self-hosted AB-testing tool, that cares about your conversion. Most of the A/B testing tools(Optimizely, VWO) are really bloated and hard to use. But from developers point of view you just need to know a test you're running and what variation to show. Also, without proper setup they can kill your conversions by leading to a losing variation.
 
 Example React pseudocode:
 
@@ -69,7 +69,7 @@ Chat where each client is also a server.
    - Discovery hubs: to simplify user search
 
 ### Emoji facemash
-Facemash for emojis, to find emoji number 1! Also comparing same emoji between different providers (google/apple) etc...
+Facemash for emojis, to find emoji number 1! Also, comparing same emoji between different providers (google/apple) etc...
 
 ### News timeline aggregator
 Service to link news(events) that happened at different times, but share same situation, actors, companies, etc.
@@ -88,7 +88,7 @@ Everyday photo diary. Works for just one(but very important) person right now.
 
 ### Sneak peek
 
-App where you can exchnage photos with a stranger. You can keep this photo dialogue until somebody stops to reply.
+App where you can exchange photos with a stranger. You can keep this photo dialogue until somebody stops to reply.
 
 ### [Macaque](https://github.com/phil-r/macaque)
 > also known as `lodhommey`
@@ -101,7 +101,7 @@ Allow [hackernewsbot](https://github.com/phil-r/hackernewsbot) to handle email s
 
 ### [EZlytics](https://github.com/phil-r/ezlytics)
 
-Self-hosted analytics with server-side and simle client code and nice admin ui.
+Self-hosted analytics with server-side and simple client code and nice admin ui.
 
  - should allow to track pageviews and custom events (like `ga('send', 'pageview', location.pathname);`)
  - combine events into sessions
@@ -110,7 +110,7 @@ Self-hosted analytics with server-side and simle client code and nice admin ui.
 
 ## Graveyard
 
-These are the projects that I've wanted to built, but I won't for different reasons
+These are the projects that I've wanted to build, but I won't for different reasons
 
 ### Temporary file-sharing service
 
