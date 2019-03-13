@@ -7,7 +7,7 @@ To solve this I'll keep the list of my ideas and small descriptions of them here
 
 ## Not started
 
-This are the projects I haven't started working on
+These are the projects I haven't started working on
 
 ### YZtesting
 
@@ -68,12 +68,6 @@ Chat where each client is also a server.
    - Exchange hubs: to simplify offline message delivery
    - Discovery hubs: to simplify user search
 
-### Temporary file-sharing service
-
-> Inspired by [Firefox Send](https://github.com/mozilla/send)
-
-Simple service to share files for the give amount of time or downloads, possibly using [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html) as a file hosting
-
 ### Emoji facemash
 Facemash for emojis, to find emoji number 1! Also comparing same emoji between different providers (google/apple) etc...
 
@@ -86,7 +80,7 @@ Similar to [timeline](https://itunes.apple.com/us/app/timeline-news-in-context/i
 
 ## Started
 
-This are the projects that I've started but haven't finished
+These are the projects that I've started but haven't finished
 
 ### To remember
 
@@ -112,3 +106,22 @@ Self-hosted analytics with server-side and simle client code and nice admin ui.
  - should allow to track pageviews and custom events (like `ga('send', 'pageview', location.pathname);`)
  - combine events into sessions
  - have a nice viewer for sessions
+
+
+## Graveyard
+
+These are the projects that I've wanted to built, but I won't for different reasons
+
+### Temporary file-sharing service
+
+> Inspired by [Firefox Send](https://github.com/mozilla/send)
+
+Simple service to share files for the given amount of time or downloads, using [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html) as a file hosting.
+
+#### Reason not to build
+
+ [Firefox Send](https://github.com/mozilla/send)  is now much better, and also there is a nice cli [ffsend](https://github.com/timvisee/ffsend)
+
+
+
+
