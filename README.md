@@ -107,6 +107,9 @@ Self-hosted analytics with server-side and simple client code and nice admin ui.
  - combine events into sessions
  - have a nice viewer for sessions
 
+Similar projects:
+
+ - [PostHog](https://github.com/PostHog/posthog)
 
 ## Graveyard
 
