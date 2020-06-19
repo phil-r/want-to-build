@@ -67,6 +67,8 @@ Chat where each client is also a server.
  - 2 types of non-human servers (can be combined):
    - Exchange hubs: to simplify offline message delivery
    - Discovery hubs: to simplify user search
+   
+*NOTE:* [Berty](https://berty.tech) seems to be what I want.
 
 ### Emoji facemash
 Facemash for emojis, to find emoji number 1! Also, comparing same emoji between different providers (google/apple) etc...
