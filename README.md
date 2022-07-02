@@ -34,6 +34,10 @@ render() {
 
 ```
 
+Similar projects:
+
+ - [Growthbook](https://github.com/growthbook/growthbook)
+
 ### KARMA inc.
 
 Public database of Corporations misdeeds (and virtues).
