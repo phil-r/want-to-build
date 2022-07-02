@@ -125,7 +125,7 @@ Simple service to share files for the given amount of time or downloads, using [
 
 #### Reason not to build
 
- [Firefox Send](https://github.com/mozilla/send)  is now much better, and also there is a nice cli [ffsend](https://github.com/timvisee/ffsend)
+ [~Firefox~ Send](https://github.com/timvisee/send) is now much better, and also there is a nice cli [ffsend](https://github.com/timvisee/ffsend)
 
 
 
