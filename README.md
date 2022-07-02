@@ -112,6 +112,7 @@ Self-hosted analytics with server-side and simple client code and nice admin ui.
 Similar projects:
 
  - [PostHog](https://github.com/PostHog/posthog)
+ - [Plausible Analytics](https://github.com/plausible/analytics)
 
 ## Graveyard
 
